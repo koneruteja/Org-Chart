@@ -1,0 +1,28 @@
+{
+  "name": "org-chart",
+  "version": "1.0.0",
+  "description": "This is a command-line-input application run in node that requests information about the team and then generates a html file describing about the team with cards for each member.",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koneruteja/org-chart.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koneruteja/org-chart/issues"
+  },
+  "homepage": "https://github.com/koneruteja/org-chart#readme",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  },
+  "dependencies": {}
+}
