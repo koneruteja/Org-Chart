@@ -21,5 +21,9 @@ A screenshot of an example team profile is shown below:
 
 ![Snap](./assets/images/output.png)
 
+# Video tutorial
+
+[![tutorial](https://img.youtube.com/vi/ThznTKiGgRI/0.jpg)](https://www.youtube.com/watch?v=ThznTKiGgRI)
+
 # Technologies Used
 This app was created using Object-Oriented Programming concepts, namely using classes and constructors to create "team member" objects based on information entered by the user.  The app is run using Node.js, and uses the "Inquirer" node module.  Files for different objects are also stored in separate .js files and passed among one another using module.exports.
